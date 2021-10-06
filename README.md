@@ -14,7 +14,8 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anas-hameed&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anas-hameed&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Anas-hameed&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
 ### Top Languages
