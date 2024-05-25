@@ -2,8 +2,7 @@
 
 💡 &nbsp;I am a Web Developer and cyber security enthusiast .\
 ❤️ &nbsp;I Love to play with Data.\
-🎓 &nbsp;I'm a Enrolled in Bachelor Program at FAST(NU) .\
-🌱 &nbsp;I'm on track for learning more about cyber security.\
+🌱 &nbsp;I'm a Software Engineer currently working on LMS project based on top of OpenEdx .\
 💬 &nbsp;Feel free to reach out to me for discussion about Web-Dev related stuff , or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at hameed.anas@hotmail.com! I'll try to respond as soon as I can.\
 ⚡ &nbsp;Fun fact: I am a lazy fitness freak :joy:
@@ -32,5 +31,4 @@
 	<a href="https://www.linkedin.com/in/anas-hameed-6445171aa/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://web.facebook.com/rajaanas.hameed"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://www.instagram.com/_i_am.anas_/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/_Anas_Hameed_?s=09"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
